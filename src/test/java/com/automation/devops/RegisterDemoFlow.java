@@ -38,6 +38,7 @@ public class RegisterDemoFlow {
 	public void launchApplication() {
 		
 		// Step 1. Launch the Application
+		System.out.println("DevOps Continous Testing");
 
 		//Set the system property for the chrome browser
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
