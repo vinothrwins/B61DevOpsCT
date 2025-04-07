@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-07T15:27:18 IST" name="Automation Suite" finished-at="2025-04-07T15:27:39 IST" duration-ms="21086">
+    <groups>
+    </groups>
+    <test started-at="2025-04-07T15:27:18 IST" name="Sanity Test Cases" finished-at="2025-04-07T15:27:39 IST" duration-ms="21086">
+      <class name="com.automation.devops.RegisterDemoFlow">
+        <test-method signature="launchApplication()[pri:1, instance:com.automation.devops.RegisterDemoFlow@4b5d6a01]" started-at="2025-04-07T15:27:18 IST" name="launchApplication" finished-at="2025-04-07T15:27:26 IST" duration-ms="8659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="registerUser()[pri:3, instance:com.automation.devops.RegisterDemoFlow@4b5d6a01]" started-at="2025-04-07T15:27:26 IST" name="registerUser" finished-at="2025-04-07T15:27:37 IST" duration-ms="10866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="validateTransactionDetails()[pri:4, instance:com.automation.devops.RegisterDemoFlow@4b5d6a01]" started-at="2025-04-07T15:27:37 IST" name="validateTransactionDetails" finished-at="2025-04-07T15:27:37 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTransactionDetails -->
+        <test-method signature="closeApplication()[pri:5, instance:com.automation.devops.RegisterDemoFlow@4b5d6a01]" started-at="2025-04-07T15:27:37 IST" name="closeApplication" finished-at="2025-04-07T15:27:39 IST" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.automation.devops.RegisterDemoFlow -->
+    </test> <!-- Sanity Test Cases -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
