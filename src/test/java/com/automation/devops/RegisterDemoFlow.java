@@ -39,6 +39,7 @@ public class RegisterDemoFlow {
 		
 		// Step 1. Launch the Application
 		System.out.println("DevOps Continous Testing");
+	        System.out.println("new code added for demo purpose");
 
 		//Set the system property for the chrome browser
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
